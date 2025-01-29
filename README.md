@@ -1,2 +1,3 @@
 # DePaul-Cybersecurity-Automation-Test
-Week 3 Homework
+
+This is a sample readme
